@@ -5,22 +5,22 @@ import React, { Component } from 'react';
 // import './PostNetwork'
 import getPosts from './network/PostNetwork.js';
 
-var data = [
-    {
-        id: 62,
-        uploaded_date: "2017-04-05T13:23:49.586288Z",
-        title: "오늘 저녁 식사를 할 사람",
-        content: "나와나",
-        author: 1
-    },
-    {
-        id: 61,
-        uploaded_date: "2017-04-05T13:18:13.221439Z",
-        title: "그리고 혹시",
-        content: "안녕 하세요",
-        author: 1
-    },
-];
+// var data = [
+//     {
+//         id: 62,
+//         uploaded_date: "2017-04-05T13:23:49.586288Z",
+//         title: "오늘 저녁 식사를 할 사람",
+//         content: "나와나",
+//         author: 1
+//     },
+//     {
+//         id: 61,
+//         uploaded_date: "2017-04-05T13:18:13.221439Z",
+//         title: "그리고 혹시",
+//         content: "안녕 하세요",
+//         author: 1
+//     },
+// ];
 
 var temp;
 

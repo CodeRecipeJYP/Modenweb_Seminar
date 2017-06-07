@@ -8,7 +8,8 @@ class MyComponent extends Component {
         return (
     <div className="MyComponent">
             <p className="MyComponent-blarblar">
-                blarblar
+                blarblar i = {this.props.myprop}
+                {this.props.db}
             </p>
 
             </div>
